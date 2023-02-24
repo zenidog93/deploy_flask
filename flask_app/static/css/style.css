@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.main-container{
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.centered{
+    text-align: center;
+}
